@@ -15,6 +15,7 @@ int main()
 	x = 5;
 	y = 10;
 	cout << "El resultado es" << endl;
+	cout << "---------------" << endl;
 	cout << x + y;
 	system("pause");
     return 0;
